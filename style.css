@@ -1,0 +1,15 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.favorite {
+    background-color: rgb(177, 153, 0);
+}
+
+a {
+    color: black;
+}
+
+ul {
+    color: red;
+}
